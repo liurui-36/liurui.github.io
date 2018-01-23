@@ -1,0 +1,21 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+
+#content {
+	width: 80%;
+	height: 800px;
+	/*background-color: #ffffff;*/
+	position: absolute;
+	left: 10%;
+}
+
+#title {
+	font-size: 40px;
+	color: white;
+	text-align: center;
+	margin-top: 50px;
+	font-family: "微软雅黑";
+	letter-spacing: 15px;
+}
